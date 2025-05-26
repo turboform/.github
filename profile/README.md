@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://krleqnhlvnyqtkqoyogw.supabase.co/storage/v1/object/public/public-assets/logo-small.png" alt="TurboForm Logo" width="120"/>
+  <img src="https://krleqnhlvnyqtkqoyogw.supabase.co/storage/v1/object/public/public-assets/logo.png" alt="TurboForm Logo" width="120"/>
   
   <h3>Beautiful Forms Before Your Coffee Cools</h3>
   
